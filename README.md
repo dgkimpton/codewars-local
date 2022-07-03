@@ -1,7 +1,7 @@
 
 # CodeWars - Local
 
-Minimal setup for running [codewars.com](codewars.com) C++ tests locally so that you can use your preferred editor.
+Minimal setup for running [codewars.com](https://www.codewars.com/) C++ tests locally so that you can use your preferred editor.
 
 Assumes you already have ***cmake*** and a suitable ***C++ compiler*** installed.
 
